@@ -4,3 +4,4 @@ git clone <GitHub url>
 git add .  -> to save everything 
 git commit -m "commit message"
 git push
+git push origin <branch name> 
