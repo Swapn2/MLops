@@ -5,3 +5,7 @@ git add .  -> to save everything
 git commit -m "commit message"
 git push
 git push origin <branch name> 
+git branch <branch name>
+git checkout <branch name>
+then 
+git push origin <branch name>
