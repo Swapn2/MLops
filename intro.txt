@@ -1,3 +1,6 @@
 git --version 
 git status 
 git clone <GitHub url>
+git add .  -> to save everything 
+git commit -m "commit message"
+git push
